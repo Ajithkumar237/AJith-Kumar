@@ -12,7 +12,7 @@
 <h3 align="center" style="color:#c9d1d9;">
 Turning data into insights • Insights into impact
 </h3>
----
+
 
 <p align="center" style="color:#8b949e; max-width: 900px; margin: auto;">
 Hey there! 👋 I'm a curious mind who loves exploring the world of data and uncovering the stories hidden within it.
@@ -23,7 +23,7 @@ or wondering why my last bug fix broke everything else.
 Always learning. Always questioning. Welcome to my GitHub 🚀
 </p>
 
----
+
 
 <img align="right" alt="Coding" width="380"
 src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"/>
