@@ -1,7 +1,11 @@
-<!-- Dark Banner -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Abhishek%20Singh%20Solanki&fontSize=42&fontColor=58a6ff&fontAlignY=55" />
 </p>
+
+<h3 align="center" style="color:#c9d1d9;">
+Turning data into insights • Insights into impact
+</h3>
 
 <h1 align="center" style="color:#58a6ff;">
   Hi 👋, I'm Ajith Kumar
