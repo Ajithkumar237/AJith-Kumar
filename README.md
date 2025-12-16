@@ -1,53 +1,78 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
-<h1 align="center">Hi 👋, I'm Ajith Kumar</h1>
-<h3 align="center">Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub</h3>
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
+<!-- Dark Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
+
+<h1 align="center" style="color:#58a6ff;">
+  Hi 👋, I'm Ajith Kumar
+</h1>
+
+<h3 align="center" style="color:#c9d1d9;">
+  Data Science • Machine Learning • Analytics
+</h3>
+
+---
+
+<p align="center" style="color:#8b949e; max-width: 900px; margin: auto;">
+Hey there! 👋 I'm a curious mind who loves exploring the world of data and uncovering the stories hidden within it.
+I enjoy building things, breaking things (accidentally 😄), and figuring out how to make them better.
+When I'm not working with data, you’ll find me reading, experimenting with side projects,
+or wondering why my last bug fix broke everything else.
+<br><br>
+Always learning. Always questioning. Welcome to my GitHub 🚀
+</p>
+
+---
+
+<img align="right" alt="Coding" width="380"
+src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"/>
+
+### 🧠 What I Do
+- 📊 Data Analysis & Visualization (Python, Pandas, NumPy)
+- 🐍 Python Data Analysis (EDA, Feature Engineering)
+- 🧮 SQL (Data Extraction, Joins, Aggregations, Subqueries)
+- 📈 Excel (Advanced Excel, Dashboards, Pivot Tables)
+- 📊 Power BI (DAX, Interactive Dashboards, Data Modeling)
+- 📉 Tableau (Data Storytelling & Visual Analytics)
+- 🤖 Machine Learning & Model Building
+- 🧪 Experimentation & Feature Engineering
+- 🚀 Model Deployment 
 
 
-- 💬 Ask me about **Data Science, Python, PostgreSQL**
+---
 
-- 📫 How to reach me **ajith02jr@gmail.com**
-
-- ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!**
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack
 <p align="left">
-<a href="https://www.linkedin.com/in/ajith-kumar-4b2345239/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="Ajith Kumar LinkedIn" height="30" width="40" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/ajith-kumar-4b2345239/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/>
 </a>
-<a href="https://medium.com/@ajithkumarsss143" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
-       alt="Ajith Kumar Medium" height="30" width="40" />
+<a href="https://medium.com/@ajithkumarsss143">
+  <img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=58a6ff"/>
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajithkumarsss143&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarsss143&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
