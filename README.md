@@ -16,7 +16,7 @@ Turning data into insights • Insights into impact
 
 <p align="center" style="color:#8b949e; max-width: 900px; margin: auto;">
 Hey there! 👋 I'm a curious mind who loves exploring the world of data and uncovering the stories hidden within it.
-I enjoy building things, breaking things (accidentally 😄), and figuring out how to make them better.
+I enjoy building things, breaking things , and figuring out how to make them better.
 When I'm not working with data, you’ll find me reading, experimenting with side projects,
 or wondering why my last bug fix broke everything else.
 <br><br>
@@ -70,10 +70,4 @@ src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"/>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajithkumarsss143&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithkumarsss143&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
